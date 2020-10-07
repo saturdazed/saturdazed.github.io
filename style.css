@@ -72,3 +72,11 @@ a:hover{
     margin: 20px;
     background-color: lightslategray;
 }
+
+/* .hoverlink {
+    background: transparent url(../gear/images/ESP2.jpg)
+}
+
+.hoverlink:hover{
+    background-image: url(../gear/images/ESP2.jpg);
+} */
