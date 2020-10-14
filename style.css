@@ -42,11 +42,11 @@ div img {
 
 }
 
-a{
+a {
     text-decoration: none!important;
     color: inherit;
 }
-a:hover{
+a:hover {
     color: lightslategray;
 }
 
@@ -72,6 +72,22 @@ a:hover{
     margin: 20px;
     background-color: lightslategray;
 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  } 
+
+
+
+
+
+/* .imgbox {
+    margin: 20px;
+    padding: 5px;
+} */
+
 
 /* .hoverlink {
     background: transparent url(../gear/images/ESP2.jpg)
